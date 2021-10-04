@@ -7,7 +7,7 @@ Created on 03/10/2021
   
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import plotly.express as px
+#import plotly.express as px
 #import numpy as np
 import pandas as pd
 import streamlit as st
