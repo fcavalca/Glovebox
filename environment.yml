@@ -2,4 +2,3 @@ name: stats
 dependencies:
   - pandas
   - plotly
-  - os
